@@ -29,10 +29,10 @@ This is a simple game project built to showcase various game development concept
    - Launch Unity Hub and click on **Add** to open the project folder.
    - Navigate to the folder where you downloaded or cloned the project.
 
-3. **Open the Main Scene**
+3. **Open the Game Scene**
 
    - In the **Project** window, navigate to the **Scenes** folder.
-   - Double-click on **MainScene** to load it in the Unity editor.
+   - Double-click on **GameScene** to load it in the Unity editor.
 
 4. **Play the Game**
 
